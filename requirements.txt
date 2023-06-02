@@ -8,8 +8,6 @@ sklearn
 stopwords
 typing
 torch
-socket
-os
 flask
 pyngrok
 IPython
