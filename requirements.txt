@@ -3,7 +3,6 @@ numpy
 torch
 nltk
 stopwords
-torch.nn 
 sklearn.metrics 
 classification_report
 sklearn.model_selection 
