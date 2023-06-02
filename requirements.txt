@@ -1,13 +1,1 @@
-transformers
-datasets
-accelerate
-pandas
-pyarrow
-numpy
-sklearn
-stopwords
-typing
-torch
-flask
-pyngrok
-IPython
+
