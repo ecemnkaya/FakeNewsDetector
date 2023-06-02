@@ -1,1 +1,1 @@
-web: pyngrok    convbert:app
+worker: python convbert.py
