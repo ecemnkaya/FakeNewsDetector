@@ -1,7 +1,6 @@
 pandas
 numpy
 torch
-nltk
 scikit-learn
 transformers
 typing
