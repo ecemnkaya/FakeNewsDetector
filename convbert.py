@@ -7,15 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1BY236u-kjI5BEWnYzrzTDB6UP5jh5ThS
 """
 
-pip install transformers accelerate
-
-pip install transformers
-pip install --upgrade transformers
-
-pip install datasets
-
-pip install pyarrow
-
 import pandas as pd
 import numpy as np
 import torch
