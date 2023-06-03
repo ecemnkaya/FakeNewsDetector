@@ -181,7 +181,7 @@ news_text= "example input text"
 
 print("Result:", edizvaluate(news_text))
 
-!pip install flask pyngrok
+pip install flask pyngrok
 
 import socket
 import os
@@ -204,7 +204,7 @@ def evaluate():
     result = edizvaluate(news_text)
     return render_template('result.html', result=result)
 
-!mkdir templates
+ mkdir templates
 
 index_html = '''
 <html>
